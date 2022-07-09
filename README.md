@@ -18,10 +18,10 @@ Cycle is played according to the following rules.
 ## Images
 ---
 <img src="begin.jpg" alt="start game"/>
-<img src="player1eat".jpg alt="player 1 eat"/>
-<img src="player2eat".jpg alt="player 2 eat"/>
-<img src="player1win".jpg alt="player 1 win"/>
-<img src="player2win".jpg alt="player 2 win"/>
+<img src="player1eat.jpg" alt="player 1 eat"/>
+<img src="player2eat.jpg" alt="player 2 eat"/>
+<img src="player1win.jpg" alt="player 1 win"/>
+<img src="player2win.jpg" alt="player 2 win"/>
 
 ## Getting Started
 ---
